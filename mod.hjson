@@ -1,0 +1,7 @@
+name: "coreunitregen"
+displayName: "Core Unit Regen"
+author: "_LEYN"
+description: "Adds a 5%/s regeneration to serpulo core units. Now you don't have to press \"V\" every time you get damaged."
+subtitle: "Adds regeneration to core units."
+version: "1.0"
+minGameVersion: 145
